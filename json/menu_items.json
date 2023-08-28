@@ -1,0 +1,33 @@
+[{
+    "id": 953,
+    "name": "Wok",
+    "short_name": "VG1",
+    "price_small": 100,
+    "price_large": 210,
+    "small_portion_name":"large",
+    "description":"lore ipsu"
+}, {
+    "id": 954,
+    "name": "Sauteed",
+    "short_name": "Vg2"
+}, {
+    "id": 955,
+    "name": "Egemplar",
+    "short_name": "VG3"
+    
+}, {
+    "id": 956,
+    "name": "Algo",
+    "short_name": "VG4"
+    
+}, {
+    "id": 957,
+    "name": "Broccoli",
+    "short_name": "VG5"
+   
+}, {
+    "id": 958,
+    "name": "Vegetales",
+    "short_name": "Vg6"
+    
+}]

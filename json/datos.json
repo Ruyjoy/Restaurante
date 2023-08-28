@@ -1,0 +1,29 @@
+[{
+    "id": 1,
+    "name": "Sopa",
+    "short_name": "A"
+}, {
+    "id": 2,
+    "name": "Recomendado",
+    "short_name": "B"
+}, {
+    "id": 3,
+    "name": "Pollo",
+    "short_name": "C"
+    
+}, {
+    "id": 4,
+    "name": "Combo",
+    "short_name": "D"
+    
+}, {
+    "id": 5,
+    "name": "Chow Mein",
+    "short_name": "CM"
+   
+}, {
+    "id": 6,
+    "name": "Beefe",
+    "short_name": "F"
+    
+}]
